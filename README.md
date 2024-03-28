@@ -1,7 +1,14 @@
 ### Hi I'm Loi 👋
 
 
-### ⚙Some Tools I have used and learned 
+### Some Tools I have used and learned ⚙
+<div>
+  
+            <i class="devicon-javascript-plain colored"></i>
+          
+</div>
+      
+          
 <!--
 **lamtailoi2/lamtailoi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
