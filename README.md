@@ -9,7 +9,7 @@
 <a href="https://react.dev/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original-wordmark.svg" alt="reactjs" width="45" height="45"/> </a>
 <a href="https://expressjs.com/"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/express/express-original-wordmark.svg" alt="expressjs" width="45" height="45" /> </a>
 </p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtailoi2&layout=donut"> </img>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtailoi2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact"> </img>
          
 <!--
 **lamtailoi2/lamtailoi2** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
