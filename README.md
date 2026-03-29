@@ -23,5 +23,5 @@ I am a passionate Web Developer focused on writing clean code, solving problems,
 ### 📊 GitHub Stats
 
 <p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lamtailoi2&show_icons=true&count_private=true&theme=react&hide_border=true&bg_color=0D1117&layout=compact" alt="Loi's Top Languages">
+  <img src="https://github-readme-stats.vercel.app/api?username=lamtailoi2&show_icons=true&theme=react&hide_border=true&bg_color=0D1117" alt="Loi's GitHub Stats">
 </p>
