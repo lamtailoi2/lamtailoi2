@@ -4,7 +4,7 @@
 
 I am a passionate Web Developer focused on writing clean code, solving problems, and continuously improving my craft.
 - 🌱 I’m currently sharpening my algorithm skills on LeetCode and diving deeper into backend programming.
-- 📫 How to reach me: **lamtailoi111412gmail.com**
+- 📫 How to reach me: **lamtailoi11141@gmail.com**
 
 ---
 
